@@ -1,4 +1,4 @@
-# 💰 Expense Tracker (Java Console App)
+# 💸 Java Expense Tracker Console Application
 
 A simple Java-based **Expense Tracker** that allows users to:
 
